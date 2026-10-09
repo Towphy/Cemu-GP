@@ -40,8 +40,7 @@ Turn the GamePad on and start a game, from Cemu or from a frontend like ES-DE.
 
 ## Status
 
-Early release. Tested on one PC (Bazzite) with one GamePad, an RT5572 adapter, Nintendo Land, Pokkén Tournament and
-Super Smash Bros. for Wii U. Not done yet: GamePad audio and microphone, the camera, and a single download.
+Early release. Tested on one PC (Bazzite) with one GamePad, an RT5572 adapter. Not done yet: GamePad audio and microphone, the camera, and a single download.
 
 ## Why Linux only
 
