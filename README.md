@@ -3,7 +3,7 @@
 Play Wii U games in Cemu with a **real Wii U GamePad**: the GamePad screen on the GamePad, plus its buttons, sticks,
 touchscreen and motion. **No Wii U console needed.**
 
-This is a fork of [Cemu](https://github.com/cemu-project/Cemu), shared with the Cemu team's permission. Everything
+This is a fork of [Cemu](https://github.com/cemu-project/Cemu). Everything
 else works exactly like normal Cemu (the original README is further down).
 
 ## What you need
